@@ -29,4 +29,3 @@
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kiki_laboratory)](https://solved.ac/kiki_laboratory)
 
----
