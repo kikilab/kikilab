@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=youngzziny&height=250&fontColor=ffffff&fontSize=12&fontAlign=95&fontAlignY=10&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=youngzziny&height=150&fontColor=ffffff&fontSize=12&fontAlign=95&fontAlignY=10&animation=twinkling)
 <br>
 <h6>💻 Tech Skills</h6>
 <a href="#none"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
@@ -14,9 +14,7 @@
 <a href="#none"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 <a href="#none"><img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/></a>
 <a href="#none"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="#none"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/></a>
 <h6>👀 Interests</h6>
-<a href="#none"><img src="https://img.shields.io/badge/Burger King-D62300?style=flat-square&logo=Burger King&logoColor=white"/></a>
 <a href="#none"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
 <a href="#none"><img src="https://img.shields.io/badge/Riot Games-D32936?style=flat-square&logo=Riot Games&logoColor=white"/></a>
 <a href="#none"><img src="https://img.shields.io/badge/EA-000000?style=flat-square&logo=EA&logoColor=white"/></a>
