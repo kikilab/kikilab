@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=youngzziny&height=150&fontColor=ffffff&fontSize=12&fontAlign=95&fontAlignY=10&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=youngzziny&height=120&fontColor=ffffff&fontSize=12&fontAlign=95&fontAlignY=10&animation=twinkling)
 <br>
 <h6>💻 Tech Skills</h6>
 <a href="#none"><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
