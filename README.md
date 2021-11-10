@@ -21,7 +21,7 @@
 <a href="#none"><img src="https://img.shields.io/badge/EA-000000?style=flat-square&logo=EA&logoColor=white"/></a>
 <a href="#none"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 <br>
-<h6>📆 1 DAY 1 TEST CHALLENGE</h6>
+<h6>📆 1 Day 1 Test Challenge</h6>
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kiki_laboratory)](https://solved.ac/kiki_laboratory)
 
