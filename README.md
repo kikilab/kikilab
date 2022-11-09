@@ -15,11 +15,6 @@
 <h6>📌 Usable Tools</h6>
 <a href="#none"><img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 <a href="#none"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<h6>👀 Interests</h6>
-<a href="#none"><img src="https://img.shields.io/badge/Steam-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
-<a href="#none"><img src="https://img.shields.io/badge/Riot Games-D32936?style=flat-square&logo=Riot Games&logoColor=white"/></a>
-<a href="#none"><img src="https://img.shields.io/badge/EA-000000?style=flat-square&logo=EA&logoColor=white"/></a>
-<a href="#none"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
 <br>
 <h6>📆 1 Day 1 Test Challenge</h6>
 
